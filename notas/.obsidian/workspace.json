@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "166c925e51ae516a",
+        "id": "a44ce021f4fb711e",
         "type": "tabs",
         "children": [
           {
-            "id": "150adc945b81b1c7",
+            "id": "168a2b6e5789f703",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "ed3b0c7eec275eae",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "150adc945b81b1c7",
+  "active": "168a2b6e5789f703",
   "lastOpenFiles": [
+    "POO.md",
+    "python",
     "Welcome.md"
   ]
 }
