@@ -15,5 +15,6 @@ class MinhaClasse:
 # objeto       # classe -> instanciamos um objeto
 minha_classe = MinhaClasse()
 
-print(minha_classe.metodo_1())
+response = minha_classe.metodo_1()
+print(response)
 ```
