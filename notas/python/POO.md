@@ -5,23 +5,15 @@ sticker: lucide//album
 
 
 
-```mehrmaid
+```mermaid
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR
-A --> B & C --> D --> E --> F & G
-G --> F
-A["![[logo.png|100]]"]
-B("![[logo-old.png|100]]")
-C("[[thisisalink]]")
-D("$f(x)=\sum_i^\inf x^i$")
-E("**Caption**
-1. **Bold**
-2. *Italic*
-3. ==Marker==
-- [ ] Point
----
-Different Section")
-F("#uni")
-G(("$\dfrac{2}{\pi}+2$"))
+    markdown["`This **is** _Markdown_`"]
+    newLines["`Line1
+    Line 2
+    Line 3`"]
+    markdown --> newLines
+
 ```
 
 
