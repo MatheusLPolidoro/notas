@@ -3,6 +3,7 @@ sticker: lucide//album
 ---
 # Programação Orientada a Objetos
 
+> Uma classe
 
 ```python
 class MinhaClasse:
