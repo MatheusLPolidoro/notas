@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "aa9d8333fe1eb405",
+        "id": "af31b3b167e16324",
         "type": "tabs",
         "children": [
           {
-            "id": "aa93da807d69bcd5",
+            "id": "ddf7da2d4533b723",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sem título.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "POO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem título.canvas",
+                "file": "POO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem título.canvas",
+                "file": "POO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.canvas"
+                "file": "POO.md"
               }
             }
           },
@@ -158,10 +155,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "aa93da807d69bcd5",
+  "active": "ddf7da2d4533b723",
   "lastOpenFiles": [
-    "2024-05-01.md",
     "Sem título.canvas",
+    "Sem título 1.canvas",
+    "2024-05-01.md",
     "POO.md",
     "python",
     "Welcome.md"
