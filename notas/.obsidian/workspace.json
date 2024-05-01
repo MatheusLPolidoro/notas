@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a44ce021f4fb711e",
+        "id": "aa9d8333fe1eb405",
         "type": "tabs",
         "children": [
           {
-            "id": "168a2b6e5789f703",
+            "id": "aa93da807d69bcd5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sem título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sem título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sem título.canvas"
+              }
             }
           },
           {
@@ -134,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 419.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +158,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "168a2b6e5789f703",
+  "active": "aa93da807d69bcd5",
   "lastOpenFiles": [
+    "2024-05-01.md",
+    "Sem título.canvas",
     "POO.md",
     "python",
     "Welcome.md"
