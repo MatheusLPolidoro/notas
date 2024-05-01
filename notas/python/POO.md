@@ -4,6 +4,27 @@ sticker: lucide//album
 # Programação Orientada a Objetos
 
 
+
+```mehrmaid
+flowchart LR
+A --> B & C --> D --> E --> F & G
+G --> F
+A["![[logo.png|100]]"]
+B("![[logo-old.png|100]]")
+C("[[thisisalink]]")
+D("$f(x)=\sum_i^\inf x^i$")
+E("**Caption**
+1. **Bold**
+2. *Italic*
+3. ==Marker==
+- [ ] Point
+---
+Different Section")
+F("#uni")
+G(("$\dfrac{2}{\pi}+2$"))
+```
+
+
 ```python
 class MinhaClasse:
 
