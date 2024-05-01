@@ -7,6 +7,9 @@ sticker: lucide//album
 ```python
 class MinhaClasse:
 
+	def __init__(self): # metodo construtor
+		print('Estou no construtor')
+
 	def metodo_1(self):
 		print('minha ação 1')
 		print('minha ação 2')
