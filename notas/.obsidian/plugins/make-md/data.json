@@ -37,10 +37,14 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
+    "//Tags",
+    "//Tags",
     "/",
     "//Tags",
     "//Tags",
-    "//python",
+    "//Tags",
+    "//C",
+    "//Csharp",
     "//python"
   ],
   "expandFolderOnClick": true,
