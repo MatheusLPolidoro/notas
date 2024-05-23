@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/POO.md",
+                "file": "conceitos/O que é&nbsp;.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/POO.md",
+                "file": "conceitos/O que é&nbsp;.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/POO.md",
+                "file": "conceitos/O que é&nbsp;.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/POO.md"
+                "file": "conceitos/O que é&nbsp;.md"
               }
             }
           },
@@ -166,9 +166,13 @@
   },
   "active": "ddf7da2d4533b723",
   "lastOpenFiles": [
+    "Pasted image 20240523205421.png",
+    "conceitos/O que é&nbsp;.md",
+    "python/POO.md",
+    "conceitos/conceitos.md",
+    "conceitos",
     "Tags",
     "c sharp/Untitled.md",
-    "python/POO.md",
     "c sharp/c sharp.md",
     "Sem título.md",
     "c sharp",

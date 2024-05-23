@@ -48,7 +48,10 @@
     "//Csharp",
     "//c sharp",
     "//python",
-    "//python"
+    "//python",
+    "//conceitos",
+    "//conceitos/spaces://$tags",
+    "//conceitos"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
