@@ -45,9 +45,10 @@
     "//Tags",
     "//C",
     "//Csharp",
-    "//python",
     "//Csharp",
-    "//c sharp"
+    "//c sharp",
+    "//python",
+    "//python"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
