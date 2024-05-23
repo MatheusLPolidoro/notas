@@ -14,3 +14,4 @@ Com uma abordagem de CI/CD, as empresas podem evitar bugs e falhas no código, a
 À medida que as apps evoluem, as funcionalidades de CI/CD ajudam a reduzir a complexidade, aumentar a eficiência e simplificar os fluxos de trabalho.
 
 E como o pipeline de CI/CD automatiza o trabalho humano que em geral é necessário para que um novo código passe de um *commit* à produção, o *downtime* é minimizado e as versões atualizadas do código são disponibilizadas mais rápido. Além disso, com a capacidade de agilizar a integração de atualizações e mudanças no código, é possível incorporar o feedback dos usuários de maneira mais frequente e eficaz. Isso gera resultados positivos para os usuários e uma maior satisfação dos clientes em geral. 
+
