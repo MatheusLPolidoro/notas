@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conceitos/O que é&nbsp;.md",
+                "file": "conceitos/CICD.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceitos/O que é&nbsp;.md",
+                "file": "conceitos/CICD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceitos/O que é&nbsp;.md",
+                "file": "conceitos/CICD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceitos/O que é&nbsp;.md"
+                "file": "conceitos/CICD.md"
               }
             }
           },
@@ -164,15 +164,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ddf7da2d4533b723",
+  "active": "c57b1cbf25c1ebca",
   "lastOpenFiles": [
-    "Pasted image 20240523205421.png",
-    "conceitos/O que é&nbsp;.md",
-    "python/POO.md",
+    "c sharp/Untitled.md",
+    "conceitos/CICD.md",
     "conceitos/conceitos.md",
+    "Pasted image 20240523205421.png",
+    "python/POO.md",
     "conceitos",
     "Tags",
-    "c sharp/Untitled.md",
     "c sharp/c sharp.md",
     "Sem título.md",
     "c sharp",
