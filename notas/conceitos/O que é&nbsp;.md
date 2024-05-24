@@ -1,6 +1,16 @@
 #conceito #metodologia #CI/CD
 
-
+- [Visão geral](#visao)
+  - [Classificação dos patterns clássicos :books:](#classificação-dos-patterns-clássicos-books)
+  - [Elementos de um pattern 📋](#elementos-de-um-pattern-)
+  - [PATTERNS **\</\>**](#patterns-)
+  - [ADAPTER](#adapter)
+    - [1. Classificação:](#1-classificação)
+    - [2. Intenção:](#2-intenção)
+    - [3. Motivação:](#3-motivação)
+    - [4. Estrutura:](#4-estrutura)
+    - [5. Exemplo de codigo:](#5-exemplo-de-codigo)
+  - [OBSERVER](#observer)
 ## Visão geral
 O propósito da abordagem de CI/CD, sigla em inglês para integração e entrega/implantação contínuas, é otimizar e acelerar o ciclo de vida de desenvolvimento de software.
 
