@@ -64,7 +64,20 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 ```
 
-### Contratos em APIs JSON
+## CÓDIGOS DE RESPOSTA
+
+No mundo das requisições usando o protocolo HTTP, além da resposta obtida quando nos comunicamos com o servidor, também recebemos um código de resposta (_status code_). Os códigos são formas de mostrar ao cliente como o servidor lidou com a sua requisição. Os códigos são divididos em classes e as classes são distribuídas por centenas:
+
+- 1xx: informativo — utilizada para enviar informações para o cliente de que sua requisição foi recebida e está sendo processada.
+- 2xx: sucesso — Indica que a requisição foi bem-sucedida (por exemplo, 200 OK, 201 Created).
+- 3xx: redirecionamento — Informa que mais ações são necessárias para completar a requisição (por exemplo, 301 Moved Permanently, 302 Found).
+- 4xx: erro no **cliente** — Significa que houve um erro na requisição feita pelo cliente (por exemplo, 400 Bad Request, 404 Not Found).
+- 5xx: erro no **servidor** — Indica um erro no servidor ao processar a requisição válida do cliente (por exemplo, 500 Internal Server Error, 503 Service Unavailable).
+
+> Para mais informações a cerca do _status code_ acesse a documentação do [iana](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
+
+Sempre que fazemos uma requisição, obtemos um código de resposta. Por exemplo, em nosso arquivo de teste, quando efetuamos a requisição, fazemos a checagem para ver se recebemos um código de sucesso, o código `200 OK`
+## Contratos em APIs JSON
 
 Quando falamos sobre o compartilhamento de JSON entre cliente e servidor, é crucial estabelecer um entendimento mútuo sobre a estrutura dos dados que serão trocados. A este entendimento, denominamos **_schema_**, que atua como um contrato definindo a forma e o conteúdo dos dados trafegados.
 
@@ -85,3 +98,4 @@ O ***schema*** de uma API desempenha um papel fundamental ao assegurar que ambos
   "required": ["message"]
 }
 ```
+
