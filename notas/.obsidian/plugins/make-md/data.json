@@ -37,21 +37,18 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Tags",
-    "//Tags",
     "/",
-    "//Tags",
-    "//Tags",
-    "//Tags",
     "//C",
     "//Csharp",
     "//Csharp",
     "//c sharp",
-    "//python",
-    "//python",
     "//conceitos",
     "//conceitos/spaces://$tags",
     "//conceitos",
+    "/",
+    "/",
+    "conceitos",
+    "//Tags",
     "//python"
   ],
   "expandFolderOnClick": true,
@@ -61,7 +58,10 @@
   "folderContextFile": "context",
   "folderFrameFile": "frames",
   "spacesFolder": "Tags",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "conceitos",
+    "Pasted image 20240523205421.png"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
