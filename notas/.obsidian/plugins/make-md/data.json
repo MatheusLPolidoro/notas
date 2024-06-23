@@ -51,7 +51,8 @@
     "//python",
     "//conceitos",
     "//conceitos/spaces://$tags",
-    "//conceitos"
+    "//conceitos",
+    "//python"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conceitos/CICD.md",
+                "file": "python/FastAPI do Zero.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceitos/CICD.md",
+                "file": "python/FastAPI do Zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceitos/CICD.md",
+                "file": "python/FastAPI do Zero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceitos/CICD.md"
+                "file": "python/FastAPI do Zero.md"
               }
             }
           },
@@ -164,13 +164,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c57b1cbf25c1ebca",
+  "active": "ddf7da2d4533b723",
   "lastOpenFiles": [
+    "python/FastAPI do Zero.md",
+    "python/POO.md",
     "c sharp/Untitled.md",
     "conceitos/CICD.md",
     "conceitos/conceitos.md",
     "Pasted image 20240523205421.png",
-    "python/POO.md",
     "conceitos",
     "Tags",
     "c sharp/c sharp.md",
