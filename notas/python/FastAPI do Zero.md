@@ -63,3 +63,4 @@ format = 'ruff check . --fix && ruff format .'
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 ```
+
