@@ -64,3 +64,24 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 ```
 
+### Contratos em APIs JSON
+
+Quando falamos sobre o compartilhamento de JSON entre cliente e servidor, é crucial estabelecer um entendimento mútuo sobre a estrutura dos dados que serão trocados. A este entendimento, denominamos **_schema_**, que atua como um contrato definindo a forma e o conteúdo dos dados trafegados.
+
+O ***schema*** de uma API desempenha um papel fundamental ao assegurar que ambos, cliente e servidor, estejam alinhados quanto à estrutura dos dados. Este "contrato" especifica:
+
+- Campos de Dados Esperados: quais campos são esperados na mensagem JSON, incluindo nomes de campos e tipos de dados (como strings, números, booleanos).
+- Restrições Adicionais: como validações para tamanhos de strings, formatos de números e outros tipos de validação de dados.
+- Estrutura de Objetos Aninhados: como os objetos são estruturados dentro do JSON, incluindo arrays e sub-objetos.
+
+```json
+{
+  "type": "object",
+  "properties": {
+    "message": {
+      "type": "string"
+    }
+  },
+  "required": ["message"]
+}
+```
